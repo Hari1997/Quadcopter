@@ -12,5 +12,15 @@ Atmega328p was the microcontroller used and MPU-6050(IMU) was used for the stabi
 A 6 channel transmitter and a 6 channel receiver was used used to control the quadcopter
 Flight time was about 9 minutes.
 
+Code Included
+
+ESC Calibration Video:
+
+https://www.youtube.com/watch?v=qVy39tRL7Kc
+
+Quadcopter Flying Video
+
+https://www.youtube.com/watch?v=rKsDd3vwVL8
+
 
 
